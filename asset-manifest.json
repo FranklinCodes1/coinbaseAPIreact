@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/coinbaseAPIreact/static/css/main.2781d41b.chunk.css",
+    "main.js": "/coinbaseAPIreact/static/js/main.c7b11110.chunk.js",
+    "main.js.map": "/coinbaseAPIreact/static/js/main.c7b11110.chunk.js.map",
+    "runtime-main.js": "/coinbaseAPIreact/static/js/runtime-main.8e7212a0.js",
+    "runtime-main.js.map": "/coinbaseAPIreact/static/js/runtime-main.8e7212a0.js.map",
+    "static/js/2.4cfbc28d.chunk.js": "/coinbaseAPIreact/static/js/2.4cfbc28d.chunk.js",
+    "static/js/2.4cfbc28d.chunk.js.map": "/coinbaseAPIreact/static/js/2.4cfbc28d.chunk.js.map",
+    "index.html": "/coinbaseAPIreact/index.html",
+    "static/css/main.2781d41b.chunk.css.map": "/coinbaseAPIreact/static/css/main.2781d41b.chunk.css.map",
+    "static/js/2.4cfbc28d.chunk.js.LICENSE.txt": "/coinbaseAPIreact/static/js/2.4cfbc28d.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8e7212a0.js",
+    "static/js/2.4cfbc28d.chunk.js",
+    "static/css/main.2781d41b.chunk.css",
+    "static/js/main.c7b11110.chunk.js"
+  ]
+}
